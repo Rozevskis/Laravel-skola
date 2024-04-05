@@ -18,7 +18,8 @@
         />
     </head>
     <body>
-        
+        @include('partials._navbar');
+        {{-- @include --}}
     </body>
     
 </html>
