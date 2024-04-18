@@ -9,4 +9,5 @@ class Note extends Model
 {
     use HasFactory;
     // test comment for git commit 
+    
 }
